@@ -1,0 +1,5 @@
+id_venta,fecha,id_cliente,id_producto,cantidad,precio_unitario,canal
+V001,06/09/2026,C001,P001,1,2500,Web
+V002,06/09/2026,C002,P002,2,80,Tienda
+V003,06/09/2026,C003,P003,1,120,WhatsApp
+V004,06/09/2026,C004,P004,1,780,Marketplace

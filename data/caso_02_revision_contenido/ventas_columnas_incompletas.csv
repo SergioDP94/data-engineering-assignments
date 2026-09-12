@@ -1,0 +1,3 @@
+id_venta,fecha,id_cliente,cantidad,precio_unitario
+V001,06/09/2026,C001,1,2500
+V002,06/09/2026,C002,2,80

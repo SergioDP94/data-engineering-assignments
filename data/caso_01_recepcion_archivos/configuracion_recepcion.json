@@ -1,0 +1,15 @@
+{
+    "fecha_esperada": "2026_09_06",
+    "archivo_esperado": "ventas_2026_09_06.csv",
+    "extension_esperada": ".csv",
+    "columnas_obligatorias": [
+        "id_venta",
+        "fecha",
+        "id_cliente",
+        "id_producto",
+        "cantidad",
+        "precio_unitario",
+        "canal"
+    ],
+    "descripcion": "Configuración para validar si el archivo recibido puede iniciar el procesamiento."
+}

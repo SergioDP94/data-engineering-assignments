@@ -1,0 +1,25 @@
+{
+    "columnas_obligatorias": [
+        "id_venta",
+        "fecha",
+        "id_cliente",
+        "id_producto",
+        "cantidad",
+        "precio_unitario",
+        "canal"
+    ],
+    "canales_validos": [
+        "Tienda",
+        "Web",
+        "WhatsApp",
+        "Marketplace"
+    ],
+    "reglas": {
+        "cantidad": "Debe ser numérica y mayor a cero.",
+        "precio_unitario": "Debe ser numérico y mayor a cero.",
+        "id_cliente": "Debe existir en el maestro de clientes.",
+        "id_producto": "Debe existir en el maestro de productos.",
+        "fecha": "Debe poder convertirse a una fecha válida.",
+        "id_venta": "No debe estar vacío ni duplicado."
+    }
+}
