@@ -1,0 +1,59 @@
+{
+    "fecha_consulta": "2026-09-09T08:30:00",
+    "fuente": "API simulada de pedidos",
+    "pedidos": [
+        {
+            "pedido_id": "API001",
+            "fecha": "2026-09-09",
+            "cliente": {
+                "id": "C001",
+                "ciudad": "Lima"
+            },
+            "items": [
+                {
+                    "sku": "P001",
+                    "cantidad": 1,
+                    "precio": 2500
+                },
+                {
+                    "sku": "P002",
+                    "cantidad": 2,
+                    "precio": 80
+                }
+            ],
+            "canal": "Web"
+        },
+        {
+            "pedido_id": "API002",
+            "fecha": "2026-09-09",
+            "cliente": {
+                "id": "C002",
+                "ciudad": "Arequipa"
+            },
+            "items": [
+                {
+                    "sku": "P003",
+                    "cantidad": 1,
+                    "precio": 120
+                }
+            ],
+            "canal": "Tienda"
+        },
+        {
+            "pedido_id": "API003",
+            "fecha": "2026-09-09",
+            "cliente": {
+                "id": "C999",
+                "ciudad": "No definido"
+            },
+            "items": [
+                {
+                    "sku": "P004",
+                    "cantidad": 1,
+                    "precio": 780
+                }
+            ],
+            "canal": "Marketplace"
+        }
+    ]
+}

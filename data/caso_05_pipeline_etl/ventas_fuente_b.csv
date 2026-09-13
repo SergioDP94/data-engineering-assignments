@@ -1,0 +1,5 @@
+sale_id,sale_date,customer_code,sku,units,unit_price,sales_channel
+N001,2026-09-08,C001,P001,1,2500,WEB
+N002,08/09/2026,C002,P003,2,120,STORE
+N003,09-08-2026,C003,P005,1,150,WHATSAPP
+N004,2026/09/08,C999,P002,1,80,WEB

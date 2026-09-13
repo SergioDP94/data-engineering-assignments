@@ -1,0 +1,9 @@
+{
+    "sale_id": "id_venta",
+    "sale_date": "fecha",
+    "customer_code": "id_cliente",
+    "sku": "id_producto",
+    "units": "cantidad",
+    "unit_price": "precio_unitario",
+    "sales_channel": "canal"
+}
