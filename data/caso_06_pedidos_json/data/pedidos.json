@@ -1,0 +1,380 @@
+[
+  {
+    "pedido_id": 1001,
+    "fecha": "2026-09-01",
+    "cliente": {
+      "cliente_id": "C001",
+      "ciudad": "Lima"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Memoria USB",
+        "cantidad": 1,
+        "precio": 35.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1002,
+    "fecha": "2026-09-01",
+    "cliente": {
+      "cliente_id": "C002",
+      "ciudad": "Arequipa"
+    },
+    "estado": "pendiente",
+    "productos": [
+      {
+        "producto": "Teclado",
+        "cantidad": 1,
+        "precio": 80.0
+      },
+      {
+        "producto": "Monitor",
+        "cantidad": 1,
+        "precio": 650.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1003,
+    "fecha": "2026-09-01",
+    "cliente": {
+      "cliente_id": "C003",
+      "ciudad": "Trujillo"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Mouse",
+        "cantidad": 3,
+        "precio": 45.0
+      },
+      {
+        "producto": "Teclado",
+        "cantidad": 2,
+        "precio": 80.0
+      },
+      {
+        "producto": "Cámara web",
+        "cantidad": 1,
+        "precio": 120.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1004,
+    "fecha": "2026-09-02",
+    "cliente": {
+      "cliente_id": "C004",
+      "ciudad": "Lima"
+    },
+    "estado": "cancelado",
+    "productos": [
+      {
+        "producto": "Teclado",
+        "cantidad": 1,
+        "precio": 80.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1005,
+    "fecha": "2026-09-02",
+    "cliente": {
+      "cliente_id": "C005",
+      "ciudad": "Arequipa"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Mouse",
+        "cantidad": 3,
+        "precio": 45.0
+      },
+      {
+        "producto": "Memoria USB",
+        "cantidad": 3,
+        "precio": 35.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1006,
+    "fecha": "2026-09-02",
+    "cliente": {
+      "cliente_id": "C006",
+      "ciudad": "Trujillo"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Teclado",
+        "cantidad": 3,
+        "precio": 80.0
+      },
+      {
+        "producto": "Cámara web",
+        "cantidad": 3,
+        "precio": 120.0
+      },
+      {
+        "producto": "Mouse",
+        "cantidad": 3,
+        "precio": 45.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1007,
+    "fecha": "2026-09-03",
+    "cliente": {
+      "cliente_id": "C001",
+      "ciudad": "Lima"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Cámara web",
+        "cantidad": 2,
+        "precio": 120.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1008,
+    "fecha": "2026-09-03",
+    "cliente": {
+      "cliente_id": "C002",
+      "ciudad": "Arequipa"
+    },
+    "estado": "pendiente",
+    "productos": [
+      {
+        "producto": "Mouse",
+        "cantidad": 3,
+        "precio": 45.0
+      },
+      {
+        "producto": "Audífonos",
+        "cantidad": 2,
+        "precio": 95.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1009,
+    "fecha": "2026-09-03",
+    "cliente": {
+      "cliente_id": "C003",
+      "ciudad": "Trujillo"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Teclado",
+        "cantidad": 2,
+        "precio": 80.0
+      },
+      {
+        "producto": "Mouse",
+        "cantidad": 2,
+        "precio": 45.0
+      },
+      {
+        "producto": "Audífonos",
+        "cantidad": 1,
+        "precio": 95.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1010,
+    "fecha": "2026-09-04",
+    "cliente": {
+      "cliente_id": "C004",
+      "ciudad": "Lima"
+    },
+    "estado": "cancelado",
+    "productos": [
+      {
+        "producto": "Mouse",
+        "cantidad": 2,
+        "precio": 45.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1011,
+    "fecha": "2026-09-04",
+    "cliente": {
+      "cliente_id": "C005",
+      "ciudad": "Arequipa"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Teclado",
+        "cantidad": 2,
+        "precio": 80.0
+      },
+      {
+        "producto": "Memoria USB",
+        "cantidad": 1,
+        "precio": 35.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1012,
+    "fecha": "2026-09-04",
+    "cliente": {
+      "cliente_id": "C006",
+      "ciudad": "Trujillo"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Monitor",
+        "cantidad": 1,
+        "precio": 650.0
+      },
+      {
+        "producto": "Memoria USB",
+        "cantidad": 3,
+        "precio": 35.0
+      },
+      {
+        "producto": "Cámara web",
+        "cantidad": 2,
+        "precio": 120.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1013,
+    "fecha": "2026-09-05",
+    "cliente": {
+      "cliente_id": "C001",
+      "ciudad": "Lima"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Cámara web",
+        "cantidad": 1,
+        "precio": 120.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1014,
+    "fecha": "2026-09-05",
+    "cliente": {
+      "cliente_id": "C002",
+      "ciudad": "Arequipa"
+    },
+    "estado": "pendiente",
+    "productos": [
+      {
+        "producto": "Audífonos",
+        "cantidad": 3,
+        "precio": 95.0
+      },
+      {
+        "producto": "Teclado",
+        "cantidad": 2,
+        "precio": 80.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1015,
+    "fecha": "2026-09-05",
+    "cliente": {
+      "cliente_id": "C003",
+      "ciudad": "Trujillo"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Memoria USB",
+        "cantidad": 3,
+        "precio": 35.0
+      },
+      {
+        "producto": "Cámara web",
+        "cantidad": 1,
+        "precio": 120.0
+      },
+      {
+        "producto": "Monitor",
+        "cantidad": 3,
+        "precio": 650.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1016,
+    "fecha": "2026-09-06",
+    "cliente": {
+      "cliente_id": "C004",
+      "ciudad": "Lima"
+    },
+    "estado": "cancelado",
+    "productos": [
+      {
+        "producto": "Teclado",
+        "cantidad": 1,
+        "precio": 80.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1017,
+    "fecha": "2026-09-06",
+    "cliente": {
+      "cliente_id": "C005",
+      "ciudad": "Arequipa"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Memoria USB",
+        "cantidad": 2,
+        "precio": 35.0
+      },
+      {
+        "producto": "Mouse",
+        "cantidad": 1,
+        "precio": 45.0
+      }
+    ]
+  },
+  {
+    "pedido_id": 1018,
+    "fecha": "2026-09-06",
+    "cliente": {
+      "cliente_id": "C006",
+      "ciudad": "Trujillo"
+    },
+    "estado": "entregado",
+    "productos": [
+      {
+        "producto": "Mouse",
+        "cantidad": 2,
+        "precio": 45.0
+      },
+      {
+        "producto": "Teclado",
+        "cantidad": 2,
+        "precio": 80.0
+      },
+      {
+        "producto": "Audífonos",
+        "cantidad": 3,
+        "precio": 95.0
+      }
+    ]
+  }
+]
