@@ -1,0 +1,9 @@
+﻿id_producto,nombre_producto,categoria
+P01,Teclado,Periféricos
+P02,Mouse,Periféricos
+P03,Monitor,Pantallas
+P04,Audífonos,Audio
+P05,Parlante,Audio
+P06,Cámara web,Periféricos
+P07,Memoria USB,Almacenamiento
+P08,Disco externo,Almacenamiento
